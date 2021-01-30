@@ -1,0 +1,17 @@
+#iris_40_40 prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 4, 
+#   /home/alex/Desktop/SOS/iris_40_40.prop]
+#
+#Tue Jan 26 17:07:09 CET 2021
+workingDirectory=/home/alex/Desktop/SOS
+tau=1.0
+ySize=40
+learnRate=0.7
+randomSeed=7
+namePrefix=iris_40_40
+numCycles=1000
+vectorFileName=/home/alex/Desktop/SOS/iris.vec
+sparseData=no
+outputDirectory=/home/alex/Desktop/SOS
+xSize=40
+isNormalized=no

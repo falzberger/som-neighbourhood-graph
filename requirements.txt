@@ -1,0 +1,9 @@
+ipywidgets
+jupyterlab
+matplotlib
+MiniSom
+numpy
+pandas
+plotly
+scipy
+scikit-learn

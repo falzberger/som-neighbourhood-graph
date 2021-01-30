@@ -1,0 +1,17 @@
+#Chainlink_100_60 prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 4, 
+#   /home/alex/Desktop/SOS/Chainlink_100_60.prop]
+#
+#Tue Jan 26 16:15:40 CET 2021
+workingDirectory=/home/alex/Desktop/SOS
+tau=1.0
+ySize=60
+learnRate=0.7
+randomSeed=7
+namePrefix=Chainlink_100_60
+numCycles=5000
+vectorFileName=/home/alex/Desktop/SOS/chainlink.vec
+sparseData=no
+outputDirectory=/home/alex/Desktop/SOS
+xSize=100
+isNormalized=no

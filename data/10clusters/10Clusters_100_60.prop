@@ -1,0 +1,17 @@
+#10Clusters_100_60 prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 4, 
+#   /home/alex/Desktop/SOS/10Clusters_100_60.prop]
+#
+#Tue Jan 26 16:43:45 CET 2021
+workingDirectory=/home/alex/Desktop/SOS
+tau=1.0
+ySize=60
+learnRate=0.7
+randomSeed=7
+namePrefix=10Clusters_100_60
+numCycles=2500
+vectorFileName=/home/alex/Desktop/SOS/10clusters.vec
+sparseData=no
+outputDirectory=/home/alex/Desktop/SOS
+xSize=100
+isNormalized=no

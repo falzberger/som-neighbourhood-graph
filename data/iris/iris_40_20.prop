@@ -1,0 +1,17 @@
+#iris_40_20 prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 4, 
+#   /media/alex/studio/git/university/sos-ws20/exercise-3/data/iris/iris_40_20.prop]
+#
+#Thu Jan 28 17:39:28 CET 2021
+workingDirectory=/media/alex/studio/git/university/sos-ws20/exercise-3/data/iris
+tau=1.0
+ySize=20
+learnRate=0.7
+randomSeed=7
+namePrefix=iris_40_20
+numCycles=2000
+vectorFileName=/media/alex/studio/git/university/sos-ws20/exercise-3/data/iris/iris.vec
+sparseData=no
+outputDirectory=/media/alex/studio/git/university/sos-ws20/exercise-3/data/iris
+xSize=40
+isNormalized=no
